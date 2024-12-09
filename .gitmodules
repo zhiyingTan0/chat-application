@@ -1,0 +1,3 @@
+[submodule "rust-chat-server"]
+	path = rust-chat-server
+	url = https://github.com/CorvinusZY/rust-chat-server

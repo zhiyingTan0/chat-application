@@ -4,3 +4,6 @@
 [submodule "rust-chat-server-client"]
 	path = rust-chat-server-client
 	url = https://github.com/CorvinusZY/rust-chat-server-client
+[submodule "react-chat-UI"]
+	path = react-chat-UI
+	url = https://github.com/CorvinusZY/react-chat-UI

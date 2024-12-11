@@ -95,10 +95,12 @@ The React framework is widely recognized for its maturity and extensive use in r
 # Reproducibility
 To reproduce all of our 3 components, please refer to the Run section of each component below
 
-## rust-chat-server-client
+## Client
+
+### rust-chat-server-client
 https://github.com/CorvinusZY/rust-chat-server-client/tree/main
 
-### Run
+#### Run
 Make sure the server is running before connecting the clients
 
 * run `cargo build`
@@ -111,10 +113,10 @@ Make sure the server is running before connecting the clients
 
 <br/><br/>
 
-## react-chat-UI
+### react-chat-UI
 https://github.com/CorvinusZY/react-chat-UI
 
-### Run
+#### Run
 
 First install dependencies by running:
 
@@ -130,14 +132,16 @@ Open http://localhost:3000 to view it in your browser.
 <br/><br/>
 
 
-## rust-chat-server
+## Server
+
+### rust-chat-server
 https://github.com/CorvinusZY/rust-chat-server
 
-### Run
+#### Run
 
 Simply run `cargo build` and then `cargo run`
 
-### DB Inspection
+#### DB Inspection
 
 See test client for more info
 run `sqlite3 my_database.db` to inspect DB
